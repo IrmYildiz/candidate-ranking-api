@@ -1,6 +1,6 @@
 # Candidate ranking AI -
 
-This project will be an AI-powered recruitment backend built using Golang.
+This project will be an AI-powered recruitment backend API built using Golang.
 
 This is my first project combining AI, databasing and REST Golang APIs together. 
 The end product should allow recruiters to:
